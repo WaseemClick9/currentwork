@@ -7,12 +7,78 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5D00D27C1C06D9B5009002C7 /* RestaurantMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D00D27B1C06D9B5009002C7 /* RestaurantMapViewController.swift */; };
+		5D00D27E1C06E759009002C7 /* AtmLocatorCityBranch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D00D27D1C06E759009002C7 /* AtmLocatorCityBranch.swift */; };
+		5D00D2801C06E7DF009002C7 /* AtmareaCustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D00D27F1C06E7DF009002C7 /* AtmareaCustomCell.swift */; };
+		5D1F46DD1C0984BA0076B2FB /* MenuTableTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D1F46DC1C0984BA0076B2FB /* MenuTableTableViewController.swift */; };
+		5D1F46DF1C0995A70076B2FB /* FirstMencCutomcellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D1F46DE1C0995A70076B2FB /* FirstMencCutomcellTableViewCell.swift */; };
+		5D1F46E11C09A9690076B2FB /* contactUslcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D1F46E01C09A9690076B2FB /* contactUslcon.png */; };
+		5D1F46E31C09A9720076B2FB /* Price.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D1F46E21C09A9720076B2FB /* Price.png */; };
+		5D1F46E51C09B3F80076B2FB /* AtmLocatorDirectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D1F46E41C09B3F80076B2FB /* AtmLocatorDirectionViewController.swift */; };
+		5D1F46E71C09C1050076B2FB /* BranchLocatorDirectiionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D1F46E61C09C1050076B2FB /* BranchLocatorDirectiionView.swift */; };
+		5D1F46ED1C09D4950076B2FB /* AtmIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D1F46E81C09D4940076B2FB /* AtmIcon.png */; };
+		5D1F46EE1C09D4950076B2FB /* branchIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D1F46E91C09D4950076B2FB /* branchIcon.png */; };
+		5D1F46EF1C09D4950076B2FB /* DiscountIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D1F46EA1C09D4950076B2FB /* DiscountIcon.png */; };
+		5D1F46F01C09D4950076B2FB /* menu2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D1F46EB1C09D4950076B2FB /* menu2.png */; };
+		5D1F46F11C09D4950076B2FB /* Mobiticon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D1F46EC1C09D4950076B2FB /* Mobiticon.png */; };
+		5D1F46F31C09D8DE0076B2FB /* landLine.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D1F46F21C09D8DE0076B2FB /* landLine.png */; };
+		5D21624B1C097FFE00E66658 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D21624A1C097FFE00E66658 /* SWRevealViewController.m */; };
+		5D372EC31C0499320094C1DC /* DiscountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D372EC21C0499320094C1DC /* DiscountViewController.swift */; };
+		5D372EC51C04998C0094C1DC /* discountTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D372EC41C04998C0094C1DC /* discountTableViewCell.swift */; };
+		5D372EC71C049B8D0094C1DC /* cardstar.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D372EC61C049B8D0094C1DC /* cardstar.png */; };
+		5D372EC91C049B910094C1DC /* dress.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D372EC81C049B910094C1DC /* dress.png */; };
+		5D43CB8B1C0594E20075429A /* mobitAccoutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D43CB8A1C0594E20075429A /* mobitAccoutViewController.swift */; };
+		5D43CB8D1C0595080075429A /* mobitBillViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D43CB8C1C0595080075429A /* mobitBillViewController.swift */; };
+		5D43CB8F1C059E130075429A /* AccountCustomCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D43CB8E1C059E130075429A /* AccountCustomCellTableViewCell.swift */; };
+		5D43CB911C059EC40075429A /* arrowfilled.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D43CB901C059EC40075429A /* arrowfilled.png */; };
+		5D8277AB1C05A747008FE236 /* BranchLocatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8277AA1C05A747008FE236 /* BranchLocatorViewController.swift */; };
+		5D8277AD1C05A763008FE236 /* BracnhCustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8277AC1C05A763008FE236 /* BracnhCustomCell.swift */; };
 		5D889FF31C0455C8008759C6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D889FF21C0455C8008759C6 /* AppDelegate.swift */; };
 		5D889FF51C0455C8008759C6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D889FF41C0455C8008759C6 /* ViewController.swift */; };
 		5D889FF81C0455C8008759C6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D889FF61C0455C8008759C6 /* Main.storyboard */; };
 		5D889FFA1C0455C8008759C6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D889FF91C0455C8008759C6 /* Images.xcassets */; };
 		5D889FFD1C0455C8008759C6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5D889FFB1C0455C8008759C6 /* LaunchScreen.xib */; };
 		5D88A0091C0455C8008759C6 /* FaisalBankTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D88A0081C0455C8008759C6 /* FaisalBankTests.swift */; };
+		5D88A01E1C0466CF008759C6 /* atm login.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D88A0131C0466CF008759C6 /* atm login.png */; };
+		5D88A01F1C0466CF008759C6 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D88A0141C0466CF008759C6 /* back.png */; };
+		5D88A0201C0466CF008759C6 /* branch locator.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D88A0151C0466CF008759C6 /* branch locator.png */; };
+		5D88A0211C0466CF008759C6 /* contact.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D88A0161C0466CF008759C6 /* contact.png */; };
+		5D88A0221C0466CF008759C6 /* discount.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D88A0171C0466CF008759C6 /* discount.png */; };
+		5D88A0231C0466CF008759C6 /* menu.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D88A0181C0466CF008759C6 /* menu.png */; };
+		5D88A0241C0466CF008759C6 /* mobile.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D88A0191C0466CF008759C6 /* mobile.png */; };
+		5D88A0251C0466CF008759C6 /* mobit login.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D88A01A1C0466CF008759C6 /* mobit login.png */; };
+		5D88A0261C0466CF008759C6 /* next.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D88A01B1C0466CF008759C6 /* next.png */; };
+		5D88A0271C0466CF008759C6 /* pin.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D88A01C1C0466CF008759C6 /* pin.png */; };
+		5D88A0281C0466CF008759C6 /* restuarant.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D88A01D1C0466CF008759C6 /* restuarant.png */; };
+		5D88A02A1C046D5B008759C6 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D88A0291C046D5B008759C6 /* logo.png */; };
+		5D88A02C1C046EE7008759C6 /* menu_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D88A02B1C046EE7008759C6 /* menu_icon.png */; };
+		5D88A02E1C046F9F008759C6 /* slider1_second.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5D88A02D1C046F9F008759C6 /* slider1_second.jpg */; };
+		5D88A0301C047142008759C6 /* Scrollview.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5D88A02F1C047142008759C6 /* Scrollview.xib */; };
+		5D88A0341C0471FE008759C6 /* faisalXipFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D88A0331C0471FE008759C6 /* faisalXipFile.swift */; };
+		5D95B13A1C06FA1000C70E84 /* pagingbackgound.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D95B1391C06FA1000C70E84 /* pagingbackgound.png */; };
+		5DAD5AAB1C0865AB003BA6BF /* DiscountClosestTomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DAD5AAA1C0865AB003BA6BF /* DiscountClosestTomeViewController.swift */; };
+		5DAD5AAD1C0865CD003BA6BF /* discountcloseCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DAD5AAC1C0865CD003BA6BF /* discountcloseCellTableViewCell.swift */; };
+		5DAD5AAF1C0889D0003BA6BF /* DiscountCloseMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DAD5AAE1C0889D0003BA6BF /* DiscountCloseMapView.swift */; };
+		5DBE0C8B1C05C2C7007CB199 /* BracnhLocatorSubLocationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBE0C8A1C05C2C7007CB199 /* BracnhLocatorSubLocationViewController.swift */; };
+		5DBE0C8D1C05C2E9007CB199 /* locatorCustomCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBE0C8C1C05C2E9007CB199 /* locatorCustomCellTableViewCell.swift */; };
+		5DBE0C8F1C05D2F8007CB199 /* ATMLocatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBE0C8E1C05D2F8007CB199 /* ATMLocatorViewController.swift */; };
+		5DBE0C931C05D36E007CB199 /* AtmCustomCelll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBE0C921C05D36E007CB199 /* AtmCustomCelll.swift */; };
+		5DBE0C951C05E03B007CB199 /* DiscountSubClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBE0C941C05E03B007CB199 /* DiscountSubClass.swift */; };
+		5DBE0C971C05E17F007CB199 /* NearResutrantTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBE0C961C05E17F007CB199 /* NearResutrantTableViewCell.swift */; };
+		5DBE0C991C05E533007CB199 /* RestaurantsAddressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBE0C981C05E533007CB199 /* RestaurantsAddressViewController.swift */; };
+		5DBE0C9B1C05E728007CB199 /* ResturantLocationCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBE0C9A1C05E728007CB199 /* ResturantLocationCellTableViewCell.swift */; };
+		5DC12BDF1C047DFA003ED73D /* footerImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 5DC12BDE1C047DFA003ED73D /* footerImage.png */; };
+		5DC12BE11C047E12003ED73D /* FaisalLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 5DC12BE01C047E12003ED73D /* FaisalLogo.png */; };
+		5DC12BE31C047E2B003ED73D /* footerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5DC12BE21C047E2B003ED73D /* footerView.xib */; };
+		5DC12BE51C047E7E003ED73D /* FooterViewFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DC12BE41C047E7E003ED73D /* FooterViewFile.swift */; };
+		5DCB76921C04852700880755 /* slidecontrol.png in Resources */ = {isa = PBXBuildFile; fileRef = 5DCB76911C04852700880755 /* slidecontrol.png */; };
+		5DCB76941C0486A000880755 /* MobitLoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DCB76931C0486A000880755 /* MobitLoginViewController.swift */; };
+		5DCB76961C04882B00880755 /* MobitCustomCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DCB76951C04882B00880755 /* MobitCustomCellTableViewCell.swift */; };
+		5DCB76981C048A2600880755 /* user.png in Resources */ = {isa = PBXBuildFile; fileRef = 5DCB76971C048A2600880755 /* user.png */; };
+		5DCB769A1C048A5200880755 /* fundTransfer.png in Resources */ = {isa = PBXBuildFile; fileRef = 5DCB76991C048A5200880755 /* fundTransfer.png */; };
+		5DCB769C1C048A6200880755 /* bill.png in Resources */ = {isa = PBXBuildFile; fileRef = 5DCB769B1C048A6200880755 /* bill.png */; };
+		5DCB769E1C048A6F00880755 /* interBank.png in Resources */ = {isa = PBXBuildFile; fileRef = 5DCB769D1C048A6F00880755 /* interBank.png */; };
+		5DCB76A01C048A7A00880755 /* card.png in Resources */ = {isa = PBXBuildFile; fileRef = 5DCB769F1C048A7A00880755 /* card.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +92,34 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5D00D27B1C06D9B5009002C7 /* RestaurantMapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RestaurantMapViewController.swift; sourceTree = "<group>"; };
+		5D00D27D1C06E759009002C7 /* AtmLocatorCityBranch.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AtmLocatorCityBranch.swift; sourceTree = "<group>"; };
+		5D00D27F1C06E7DF009002C7 /* AtmareaCustomCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AtmareaCustomCell.swift; sourceTree = "<group>"; };
+		5D1F46DC1C0984BA0076B2FB /* MenuTableTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuTableTableViewController.swift; sourceTree = "<group>"; };
+		5D1F46DE1C0995A70076B2FB /* FirstMencCutomcellTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstMencCutomcellTableViewCell.swift; sourceTree = "<group>"; };
+		5D1F46E01C09A9690076B2FB /* contactUslcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = contactUslcon.png; sourceTree = "<group>"; };
+		5D1F46E21C09A9720076B2FB /* Price.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Price.png; sourceTree = "<group>"; };
+		5D1F46E41C09B3F80076B2FB /* AtmLocatorDirectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AtmLocatorDirectionViewController.swift; sourceTree = "<group>"; };
+		5D1F46E61C09C1050076B2FB /* BranchLocatorDirectiionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BranchLocatorDirectiionView.swift; sourceTree = "<group>"; };
+		5D1F46E81C09D4940076B2FB /* AtmIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AtmIcon.png; sourceTree = "<group>"; };
+		5D1F46E91C09D4950076B2FB /* branchIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = branchIcon.png; sourceTree = "<group>"; };
+		5D1F46EA1C09D4950076B2FB /* DiscountIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DiscountIcon.png; sourceTree = "<group>"; };
+		5D1F46EB1C09D4950076B2FB /* menu2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu2.png; sourceTree = "<group>"; };
+		5D1F46EC1C09D4950076B2FB /* Mobiticon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mobiticon.png; sourceTree = "<group>"; };
+		5D1F46F21C09D8DE0076B2FB /* landLine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = landLine.png; sourceTree = "<group>"; };
+		5D2162481C097FFE00E66658 /* FaisalBank-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FaisalBank-Bridging-Header.h"; sourceTree = "<group>"; };
+		5D2162491C097FFE00E66658 /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
+		5D21624A1C097FFE00E66658 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
+		5D372EC21C0499320094C1DC /* DiscountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DiscountViewController.swift; sourceTree = "<group>"; };
+		5D372EC41C04998C0094C1DC /* discountTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = discountTableViewCell.swift; sourceTree = "<group>"; };
+		5D372EC61C049B8D0094C1DC /* cardstar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cardstar.png; sourceTree = "<group>"; };
+		5D372EC81C049B910094C1DC /* dress.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dress.png; sourceTree = "<group>"; };
+		5D43CB8A1C0594E20075429A /* mobitAccoutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mobitAccoutViewController.swift; sourceTree = "<group>"; };
+		5D43CB8C1C0595080075429A /* mobitBillViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mobitBillViewController.swift; sourceTree = "<group>"; };
+		5D43CB8E1C059E130075429A /* AccountCustomCellTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccountCustomCellTableViewCell.swift; sourceTree = "<group>"; };
+		5D43CB901C059EC40075429A /* arrowfilled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrowfilled.png; sourceTree = "<group>"; };
+		5D8277AA1C05A747008FE236 /* BranchLocatorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BranchLocatorViewController.swift; sourceTree = "<group>"; };
+		5D8277AC1C05A763008FE236 /* BracnhCustomCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BracnhCustomCell.swift; sourceTree = "<group>"; };
 		5D889FED1C0455C8008759C6 /* FaisalBank.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FaisalBank.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D889FF11C0455C8008759C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5D889FF21C0455C8008759C6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +130,46 @@
 		5D88A0021C0455C8008759C6 /* FaisalBankTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FaisalBankTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D88A0071C0455C8008759C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5D88A0081C0455C8008759C6 /* FaisalBankTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaisalBankTests.swift; sourceTree = "<group>"; };
+		5D88A0131C0466CF008759C6 /* atm login.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "atm login.png"; sourceTree = "<group>"; };
+		5D88A0141C0466CF008759C6 /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		5D88A0151C0466CF008759C6 /* branch locator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "branch locator.png"; sourceTree = "<group>"; };
+		5D88A0161C0466CF008759C6 /* contact.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = contact.png; sourceTree = "<group>"; };
+		5D88A0171C0466CF008759C6 /* discount.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = discount.png; sourceTree = "<group>"; };
+		5D88A0181C0466CF008759C6 /* menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu.png; sourceTree = "<group>"; };
+		5D88A0191C0466CF008759C6 /* mobile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mobile.png; sourceTree = "<group>"; };
+		5D88A01A1C0466CF008759C6 /* mobit login.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mobit login.png"; sourceTree = "<group>"; };
+		5D88A01B1C0466CF008759C6 /* next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next.png; sourceTree = "<group>"; };
+		5D88A01C1C0466CF008759C6 /* pin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pin.png; sourceTree = "<group>"; };
+		5D88A01D1C0466CF008759C6 /* restuarant.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = restuarant.png; sourceTree = "<group>"; };
+		5D88A0291C046D5B008759C6 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		5D88A02B1C046EE7008759C6 /* menu_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu_icon.png; sourceTree = "<group>"; };
+		5D88A02D1C046F9F008759C6 /* slider1_second.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = slider1_second.jpg; sourceTree = "<group>"; };
+		5D88A02F1C047142008759C6 /* Scrollview.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Scrollview.xib; sourceTree = "<group>"; };
+		5D88A0331C0471FE008759C6 /* faisalXipFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = faisalXipFile.swift; sourceTree = "<group>"; };
+		5D95B1391C06FA1000C70E84 /* pagingbackgound.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pagingbackgound.png; sourceTree = "<group>"; };
+		5DAD5AAA1C0865AB003BA6BF /* DiscountClosestTomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DiscountClosestTomeViewController.swift; sourceTree = "<group>"; };
+		5DAD5AAC1C0865CD003BA6BF /* discountcloseCellTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = discountcloseCellTableViewCell.swift; sourceTree = "<group>"; };
+		5DAD5AAE1C0889D0003BA6BF /* DiscountCloseMapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DiscountCloseMapView.swift; sourceTree = "<group>"; };
+		5DBE0C8A1C05C2C7007CB199 /* BracnhLocatorSubLocationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BracnhLocatorSubLocationViewController.swift; sourceTree = "<group>"; };
+		5DBE0C8C1C05C2E9007CB199 /* locatorCustomCellTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = locatorCustomCellTableViewCell.swift; sourceTree = "<group>"; };
+		5DBE0C8E1C05D2F8007CB199 /* ATMLocatorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ATMLocatorViewController.swift; sourceTree = "<group>"; };
+		5DBE0C921C05D36E007CB199 /* AtmCustomCelll.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AtmCustomCelll.swift; sourceTree = "<group>"; };
+		5DBE0C941C05E03B007CB199 /* DiscountSubClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DiscountSubClass.swift; sourceTree = "<group>"; };
+		5DBE0C961C05E17F007CB199 /* NearResutrantTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NearResutrantTableViewCell.swift; sourceTree = "<group>"; };
+		5DBE0C981C05E533007CB199 /* RestaurantsAddressViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RestaurantsAddressViewController.swift; sourceTree = "<group>"; };
+		5DBE0C9A1C05E728007CB199 /* ResturantLocationCellTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResturantLocationCellTableViewCell.swift; sourceTree = "<group>"; };
+		5DC12BDE1C047DFA003ED73D /* footerImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = footerImage.png; sourceTree = "<group>"; };
+		5DC12BE01C047E12003ED73D /* FaisalLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FaisalLogo.png; sourceTree = "<group>"; };
+		5DC12BE21C047E2B003ED73D /* footerView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = footerView.xib; sourceTree = "<group>"; };
+		5DC12BE41C047E7E003ED73D /* FooterViewFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FooterViewFile.swift; sourceTree = "<group>"; };
+		5DCB76911C04852700880755 /* slidecontrol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = slidecontrol.png; sourceTree = "<group>"; };
+		5DCB76931C0486A000880755 /* MobitLoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MobitLoginViewController.swift; sourceTree = "<group>"; };
+		5DCB76951C04882B00880755 /* MobitCustomCellTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MobitCustomCellTableViewCell.swift; sourceTree = "<group>"; };
+		5DCB76971C048A2600880755 /* user.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = user.png; sourceTree = "<group>"; };
+		5DCB76991C048A5200880755 /* fundTransfer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fundTransfer.png; sourceTree = "<group>"; };
+		5DCB769B1C048A6200880755 /* bill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bill.png; sourceTree = "<group>"; };
+		5DCB769D1C048A6F00880755 /* interBank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = interBank.png; sourceTree = "<group>"; };
+		5DCB769F1C048A7A00880755 /* card.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,9 +211,41 @@
 		5D889FEF1C0455C8008759C6 /* FaisalBank */ = {
 			isa = PBXGroup;
 			children = (
+				5D88A0121C046696008759C6 /* image */,
 				5D889FF21C0455C8008759C6 /* AppDelegate.swift */,
 				5D889FF41C0455C8008759C6 /* ViewController.swift */,
+				5DC12BE41C047E7E003ED73D /* FooterViewFile.swift */,
+				5D372EC21C0499320094C1DC /* DiscountViewController.swift */,
+				5DC12BE21C047E2B003ED73D /* footerView.xib */,
+				5DBE0C9A1C05E728007CB199 /* ResturantLocationCellTableViewCell.swift */,
+				5D88A0331C0471FE008759C6 /* faisalXipFile.swift */,
 				5D889FF61C0455C8008759C6 /* Main.storyboard */,
+				5D1F46E41C09B3F80076B2FB /* AtmLocatorDirectionViewController.swift */,
+				5D1F46E61C09C1050076B2FB /* BranchLocatorDirectiionView.swift */,
+				5D1F46DC1C0984BA0076B2FB /* MenuTableTableViewController.swift */,
+				5D1F46DE1C0995A70076B2FB /* FirstMencCutomcellTableViewCell.swift */,
+				5DAD5AAE1C0889D0003BA6BF /* DiscountCloseMapView.swift */,
+				5DAD5AAA1C0865AB003BA6BF /* DiscountClosestTomeViewController.swift */,
+				5DAD5AAC1C0865CD003BA6BF /* discountcloseCellTableViewCell.swift */,
+				5D00D27F1C06E7DF009002C7 /* AtmareaCustomCell.swift */,
+				5D00D27D1C06E759009002C7 /* AtmLocatorCityBranch.swift */,
+				5D00D27B1C06D9B5009002C7 /* RestaurantMapViewController.swift */,
+				5DBE0C981C05E533007CB199 /* RestaurantsAddressViewController.swift */,
+				5DBE0C961C05E17F007CB199 /* NearResutrantTableViewCell.swift */,
+				5DBE0C941C05E03B007CB199 /* DiscountSubClass.swift */,
+				5DBE0C8E1C05D2F8007CB199 /* ATMLocatorViewController.swift */,
+				5DBE0C921C05D36E007CB199 /* AtmCustomCelll.swift */,
+				5DBE0C8C1C05C2E9007CB199 /* locatorCustomCellTableViewCell.swift */,
+				5D8277AA1C05A747008FE236 /* BranchLocatorViewController.swift */,
+				5DBE0C8A1C05C2C7007CB199 /* BracnhLocatorSubLocationViewController.swift */,
+				5D8277AC1C05A763008FE236 /* BracnhCustomCell.swift */,
+				5D43CB8E1C059E130075429A /* AccountCustomCellTableViewCell.swift */,
+				5D43CB8C1C0595080075429A /* mobitBillViewController.swift */,
+				5D372EC41C04998C0094C1DC /* discountTableViewCell.swift */,
+				5DCB76951C04882B00880755 /* MobitCustomCellTableViewCell.swift */,
+				5D43CB8A1C0594E20075429A /* mobitAccoutViewController.swift */,
+				5DCB76931C0486A000880755 /* MobitLoginViewController.swift */,
+				5D88A02F1C047142008759C6 /* Scrollview.xib */,
 				5D889FF91C0455C8008759C6 /* Images.xcassets */,
 				5D889FFB1C0455C8008759C6 /* LaunchScreen.xib */,
 				5D889FF01C0455C8008759C6 /* Supporting Files */,
@@ -90,6 +256,9 @@
 		5D889FF01C0455C8008759C6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5D2162491C097FFE00E66658 /* SWRevealViewController.h */,
+				5D21624A1C097FFE00E66658 /* SWRevealViewController.m */,
+				5D2162481C097FFE00E66658 /* FaisalBank-Bridging-Header.h */,
 				5D889FF11C0455C8008759C6 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -110,6 +279,47 @@
 				5D88A0071C0455C8008759C6 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5D88A0121C046696008759C6 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				5D88A0131C0466CF008759C6 /* atm login.png */,
+				5DCB76911C04852700880755 /* slidecontrol.png */,
+				5D88A0141C0466CF008759C6 /* back.png */,
+				5D88A0151C0466CF008759C6 /* branch locator.png */,
+				5DCB769F1C048A7A00880755 /* card.png */,
+				5D95B1391C06FA1000C70E84 /* pagingbackgound.png */,
+				5DCB769D1C048A6F00880755 /* interBank.png */,
+				5D372EC81C049B910094C1DC /* dress.png */,
+				5DCB76991C048A5200880755 /* fundTransfer.png */,
+				5DCB769B1C048A6200880755 /* bill.png */,
+				5D88A0161C0466CF008759C6 /* contact.png */,
+				5D88A0171C0466CF008759C6 /* discount.png */,
+				5DC12BE01C047E12003ED73D /* FaisalLogo.png */,
+				5D88A0181C0466CF008759C6 /* menu.png */,
+				5D372EC61C049B8D0094C1DC /* cardstar.png */,
+				5D88A0291C046D5B008759C6 /* logo.png */,
+				5D88A0191C0466CF008759C6 /* mobile.png */,
+				5D88A02D1C046F9F008759C6 /* slider1_second.jpg */,
+				5DC12BDE1C047DFA003ED73D /* footerImage.png */,
+				5DCB76971C048A2600880755 /* user.png */,
+				5D1F46E81C09D4940076B2FB /* AtmIcon.png */,
+				5D1F46F21C09D8DE0076B2FB /* landLine.png */,
+				5D1F46E91C09D4950076B2FB /* branchIcon.png */,
+				5D1F46EA1C09D4950076B2FB /* DiscountIcon.png */,
+				5D1F46EB1C09D4950076B2FB /* menu2.png */,
+				5D1F46EC1C09D4950076B2FB /* Mobiticon.png */,
+				5D88A01A1C0466CF008759C6 /* mobit login.png */,
+				5D88A02B1C046EE7008759C6 /* menu_icon.png */,
+				5D1F46E21C09A9720076B2FB /* Price.png */,
+				5D1F46E01C09A9690076B2FB /* contactUslcon.png */,
+				5D43CB901C059EC40075429A /* arrowfilled.png */,
+				5D88A01B1C0466CF008759C6 /* next.png */,
+				5D88A01C1C0466CF008759C6 /* pin.png */,
+				5D88A01D1C0466CF008759C6 /* restuarant.png */,
+			);
+			name = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,9 +402,45 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D88A0221C0466CF008759C6 /* discount.png in Resources */,
 				5D889FF81C0455C8008759C6 /* Main.storyboard in Resources */,
+				5DCB76A01C048A7A00880755 /* card.png in Resources */,
+				5D1F46F31C09D8DE0076B2FB /* landLine.png in Resources */,
+				5D372EC71C049B8D0094C1DC /* cardstar.png in Resources */,
+				5D1F46E11C09A9690076B2FB /* contactUslcon.png in Resources */,
+				5D95B13A1C06FA1000C70E84 /* pagingbackgound.png in Resources */,
+				5DCB769E1C048A6F00880755 /* interBank.png in Resources */,
+				5D88A0261C0466CF008759C6 /* next.png in Resources */,
+				5DCB76981C048A2600880755 /* user.png in Resources */,
+				5D1F46EF1C09D4950076B2FB /* DiscountIcon.png in Resources */,
+				5DC12BDF1C047DFA003ED73D /* footerImage.png in Resources */,
+				5D88A0231C0466CF008759C6 /* menu.png in Resources */,
+				5D1F46F11C09D4950076B2FB /* Mobiticon.png in Resources */,
+				5D88A0281C0466CF008759C6 /* restuarant.png in Resources */,
+				5D1F46E31C09A9720076B2FB /* Price.png in Resources */,
+				5D372EC91C049B910094C1DC /* dress.png in Resources */,
+				5D88A0201C0466CF008759C6 /* branch locator.png in Resources */,
+				5D88A01F1C0466CF008759C6 /* back.png in Resources */,
 				5D889FFD1C0455C8008759C6 /* LaunchScreen.xib in Resources */,
 				5D889FFA1C0455C8008759C6 /* Images.xcassets in Resources */,
+				5D88A0241C0466CF008759C6 /* mobile.png in Resources */,
+				5D88A01E1C0466CF008759C6 /* atm login.png in Resources */,
+				5DCB769A1C048A5200880755 /* fundTransfer.png in Resources */,
+				5D88A02A1C046D5B008759C6 /* logo.png in Resources */,
+				5D88A0211C0466CF008759C6 /* contact.png in Resources */,
+				5D88A02C1C046EE7008759C6 /* menu_icon.png in Resources */,
+				5DC12BE31C047E2B003ED73D /* footerView.xib in Resources */,
+				5D1F46F01C09D4950076B2FB /* menu2.png in Resources */,
+				5D88A02E1C046F9F008759C6 /* slider1_second.jpg in Resources */,
+				5D1F46EE1C09D4950076B2FB /* branchIcon.png in Resources */,
+				5D43CB911C059EC40075429A /* arrowfilled.png in Resources */,
+				5D88A0301C047142008759C6 /* Scrollview.xib in Resources */,
+				5D88A0251C0466CF008759C6 /* mobit login.png in Resources */,
+				5DCB769C1C048A6200880755 /* bill.png in Resources */,
+				5DC12BE11C047E12003ED73D /* FaisalLogo.png in Resources */,
+				5D88A0271C0466CF008759C6 /* pin.png in Resources */,
+				5DCB76921C04852700880755 /* slidecontrol.png in Resources */,
+				5D1F46ED1C09D4950076B2FB /* AtmIcon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,8 +458,38 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D372EC31C0499320094C1DC /* DiscountViewController.swift in Sources */,
+				5D43CB8D1C0595080075429A /* mobitBillViewController.swift in Sources */,
 				5D889FF51C0455C8008759C6 /* ViewController.swift in Sources */,
+				5D8277AB1C05A747008FE236 /* BranchLocatorViewController.swift in Sources */,
+				5D00D27E1C06E759009002C7 /* AtmLocatorCityBranch.swift in Sources */,
+				5D00D27C1C06D9B5009002C7 /* RestaurantMapViewController.swift in Sources */,
+				5D372EC51C04998C0094C1DC /* discountTableViewCell.swift in Sources */,
+				5D21624B1C097FFE00E66658 /* SWRevealViewController.m in Sources */,
+				5DBE0C971C05E17F007CB199 /* NearResutrantTableViewCell.swift in Sources */,
+				5D1F46E71C09C1050076B2FB /* BranchLocatorDirectiionView.swift in Sources */,
+				5DBE0C8B1C05C2C7007CB199 /* BracnhLocatorSubLocationViewController.swift in Sources */,
+				5DAD5AAD1C0865CD003BA6BF /* discountcloseCellTableViewCell.swift in Sources */,
+				5D43CB8F1C059E130075429A /* AccountCustomCellTableViewCell.swift in Sources */,
+				5DBE0C9B1C05E728007CB199 /* ResturantLocationCellTableViewCell.swift in Sources */,
+				5DC12BE51C047E7E003ED73D /* FooterViewFile.swift in Sources */,
+				5DBE0C951C05E03B007CB199 /* DiscountSubClass.swift in Sources */,
+				5DBE0C931C05D36E007CB199 /* AtmCustomCelll.swift in Sources */,
+				5DCB76961C04882B00880755 /* MobitCustomCellTableViewCell.swift in Sources */,
+				5D8277AD1C05A763008FE236 /* BracnhCustomCell.swift in Sources */,
+				5DAD5AAB1C0865AB003BA6BF /* DiscountClosestTomeViewController.swift in Sources */,
+				5D00D2801C06E7DF009002C7 /* AtmareaCustomCell.swift in Sources */,
+				5DBE0C8D1C05C2E9007CB199 /* locatorCustomCellTableViewCell.swift in Sources */,
+				5D1F46DD1C0984BA0076B2FB /* MenuTableTableViewController.swift in Sources */,
+				5D43CB8B1C0594E20075429A /* mobitAccoutViewController.swift in Sources */,
+				5D88A0341C0471FE008759C6 /* faisalXipFile.swift in Sources */,
+				5D1F46DF1C0995A70076B2FB /* FirstMencCutomcellTableViewCell.swift in Sources */,
 				5D889FF31C0455C8008759C6 /* AppDelegate.swift in Sources */,
+				5D1F46E51C09B3F80076B2FB /* AtmLocatorDirectionViewController.swift in Sources */,
+				5DBE0C8F1C05D2F8007CB199 /* ATMLocatorViewController.swift in Sources */,
+				5DAD5AAF1C0889D0003BA6BF /* DiscountCloseMapView.swift in Sources */,
+				5DBE0C991C05E533007CB199 /* RestaurantsAddressViewController.swift in Sources */,
+				5DCB76941C0486A000880755 /* MobitLoginViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -338,9 +614,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = FaisalBank/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "FaisalBank/FaisalBank-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
@@ -348,9 +627,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = FaisalBank/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "FaisalBank/FaisalBank-Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -407,6 +688,7 @@
 				5D88A00E1C0455C8008759C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5D88A00F1C0455C8008759C6 /* Build configuration list for PBXNativeTarget "FaisalBankTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +697,7 @@
 				5D88A0111C0455C8008759C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
